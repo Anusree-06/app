@@ -1,1 +1,1 @@
-# app
+# Campus Recruitment Web Application
